@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm NITIN</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitin25-git&label=Profile%20views&color=0e75b6&style=flat" alt="nitin25-git" /> </p>
 
 - 🔭 I’m currently working on **Full Stack App**
 
