@@ -1,4 +1,3 @@
-![MasterHead](https://wallpapers.com/images/hd/japan-cyberpunk-na2a9x6ozwxlcixc.jpg )
 
 <h1 align="center">Hi 👋, I'm NITIN</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
