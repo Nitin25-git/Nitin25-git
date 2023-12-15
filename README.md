@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm NITIN</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Mern Developer from India</h3>
 
 - 🔭 I’m currently working on **Full Stack App**
 
